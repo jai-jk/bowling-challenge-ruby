@@ -1,7 +1,35 @@
 {
   "RSpec": {
     "coverage": {
+      "/Users/JaiJk/Projects/makers-academy/bowling-challenge-ruby/spec/score_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/JaiJk/Projects/makers-academy/bowling-challenge-ruby/lib/score.rb": {
+        "lines": [
+          1,
+          1,
+          3,
+          3,
+          null,
+          null
+        ]
+      }
     },
-    "timestamp": 1615049340
+    "timestamp": 1615050132
   }
 }
